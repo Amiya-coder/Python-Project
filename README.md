@@ -32,9 +32,5 @@ To run this project, you'll need the following Python libraries:
 - numpy
 - matplotlib
 - seaborn
-- (optional) jupyter notebook for interactive analysis
 
-You can install these dependencies using pip:
 
-```bash
-pip install pandas numpy matplotlib seaborn
